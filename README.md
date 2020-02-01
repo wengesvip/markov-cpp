@@ -6,6 +6,8 @@ A C++ program that generate text based on input data.
 
 用法：创建一个文本文档，重命名为test.utf8，在里面放入一篇中文文章（必须是utf8编码），运行mcpp-4.0.exe，生成的文本将会被输出至res.txt。
 
+生成可能会很慢，请耐心等待
+
 注意事项：文件名是test.utf8，必须要使用utf8编码，如果要ANSI转UTF8，可以把文件用记事本打开，上面“文件”->“另存为”->“编码”选择UTF-8
 
 分词使用了https://github.com/myazi/NLP
